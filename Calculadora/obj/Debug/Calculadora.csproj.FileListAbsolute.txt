@@ -1,0 +1,9 @@
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\josue\Desktop\Github\Calculadora-UNA\Calculadora\obj\Debug\Calculadora.CalculadoraForm.resources
